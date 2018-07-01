@@ -15,5 +15,8 @@
     </string>
     <!--Main Activity-->
     <string name="welcome_msg">Welcome to my Journal App!</string>
-    <string name="button">Button</string>
+    <string name="button">Enter</string>
+    <string name="title_activity_display">DisplayActivity</string>
+    <string name="search">Search</string>
+    <string name="item">Item</string>
 </resources>
